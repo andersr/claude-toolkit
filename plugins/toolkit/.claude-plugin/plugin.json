@@ -1,0 +1,8 @@
+{
+	"name": "toolkit",
+	"version": "0.1.0",
+	"description": "Git and Linear workflow commands: commit, pr, start-task.",
+	"author": {
+		"name": "Johan 'Anders' Ramsay"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "claude-toolkit",
+	"owner": {
+		"name": "Johan 'Anders' Ramsay"
+	},
+	"metadata": {
+		"description": "Personal Claude Code commands shared across projects.",
+		"version": "0.1.0"
+	},
+	"plugins": [
+		{
+			"name": "toolkit",
+			"description": "Git and Linear workflow commands: commit, pr, start-task.",
+			"version": "0.1.0",
+			"author": {
+				"name": "Johan 'Anders' Ramsay"
+			},
+			"source": "./plugins/toolkit"
+		}
+	]
+}
