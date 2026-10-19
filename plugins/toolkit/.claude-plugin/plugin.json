@@ -4,5 +4,6 @@
 	"description": "Git and Linear workflow commands: commit, pr, start-task.",
 	"author": {
 		"name": "Johan 'Anders' Ramsay"
-	}
+	},
+	"license": "MIT"
 }

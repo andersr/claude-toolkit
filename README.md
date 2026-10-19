@@ -27,7 +27,7 @@ To give everyone on a project the plugin automatically, add this to the project'
 ## Commands
 
 | Command | What it does |
-|---|---|
+| --- | --- |
 | `/toolkit:commit` | Groups every changed file into logical commits |
 | `/toolkit:pr` | Opens a PR for the current branch, linked to its Linear ticket |
 | `/toolkit:start-task <ID>` | Fetches a Linear ticket, creates its branch and starts planning |
